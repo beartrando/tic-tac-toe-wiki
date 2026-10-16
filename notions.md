@@ -1,3 +1,3 @@
 # Соглашения и понятия
 
-Главная доска - https://github.com/users/beartrando/projects/2
+Репозиторий для отслеживания тикетов: https://github.com/beartrando/tic-tac-toe-infra
